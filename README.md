@@ -4,6 +4,8 @@
   어딘가 부족한 피아노입니다.  
   그래도 나름 ~~뛰어난~~ 기능을 제법(?) 갖추고 있어요.
   
+  <img src="https://user-images.githubusercontent.com/55902220/123029430-11ef4b80-d41c-11eb-89e5-9ea470ef09e2.png" width="450" height="370">
+  
   |KEY|RESPOND|
   |:---:|:---:|
   |0|Exit|
